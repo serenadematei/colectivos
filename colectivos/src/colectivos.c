@@ -32,10 +32,7 @@ int main(void) {
 
         //LINEAS
 
-
-		printf("Hola\n");
-		printf("Serena dematei\n");
-		printf("CAMBIO 1 aaa\n");
+		printf("ultimo comit\n");
 		printf("Ingrese linea 1/2/3:");
 		scanf("%d",&linea);
 		while(linea<=0 || linea>3){
