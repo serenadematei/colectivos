@@ -32,6 +32,8 @@ int main(void) {
 
         //LINEAS
 
+
+		printf("Hola\n");
 		printf("Serena dematei\n");
 		printf("CAMBIO 1 aaa\n");
 		printf("Ingrese linea 1/2/3:");
